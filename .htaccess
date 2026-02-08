@@ -1,0 +1,827 @@
+RewriteEngine On
+RewriteCond %{QUERY_STRING} p=4099
+RewriteRule ^.*$ /فتح-باب-التطوع-بأسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4076
+RewriteRule ^.*$ /يوم-العمل-المجتمعى-فى-المنيا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2748
+RewriteRule ^.*$ /حكاية-حيطة-النور/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2713
+RewriteRule ^.*$ /يوم-العمل-المجتمعي-الأول-بأسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4094
+RewriteRule ^.*$ /يوم-التدريب-في-أسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2707
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بالاسكندر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4097
+RewriteRule ^.*$ /يوم-التدريب-في-المنيا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2688
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بالمنيا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2687
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بأسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4103
+RewriteRule ^.*$ /فتح-باب-التطوع-بالإسكندرية-اللقاء-الأ/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2681
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بالقاهرة/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4101
+RewriteRule ^.*$ /فتح-باب-التطوع-بالمنيا-اللقاء-الأول-مع/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2404
+RewriteRule ^.*$ /ملتقى-الفنانين/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=1803
+RewriteRule ^.*$ /حلم-النور-فى-المحافظات/? [L,R=301]
+
+
+RewriteCond %{QUERY_STRING} p=8923
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الغناء-الشرقي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8919
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الناي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8915
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-القانون/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8911
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الرق/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8907
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8903
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8899
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8873
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8868
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-الهندسة-الصوتية-والإنتاج-الموسي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8863
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8856
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8849
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8815
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8841
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-الفنون-التشكيلية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8182
+RewriteRule ^.*$ /تبرع-لنا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8036
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-الفنون-التشكيلية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8033
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/الهندسة-الصوتية-والإنتاج-الموسيقي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8030
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8027
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8022
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8019
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8014
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8012
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8010
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8005
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=8001
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=7794
+RewriteRule ^.*$ /تطوع-معنا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=7766
+RewriteRule ^.*$ /برنامجنا-الفني/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=7700
+RewriteRule ^.*$ /من-نحن/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4459
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4454
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4435
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4432
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4430
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4427
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4425
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-الهندسة-الصوتية-والإنتاج-الموسي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4420
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4418
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4413
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4356
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4316
+RewriteRule ^.*$ /تصميمات-3/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4310
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4182
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/استمارة-الموجة-التانية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=4184
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/البيانات-الشخصية-الموجة-التانية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3959
+RewriteRule ^.*$ /اخبار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3950
+RewriteRule ^.*$ /إستمارة-ورش-التدريب/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3947
+RewriteRule ^.*$ /برنامج-حلم-النور-التدريبي-ورش-التدريب/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3905
+RewriteRule ^.*$ /تحكيم-المقابلة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3929
+RewriteRule ^.*$ /تحكيم-المقابلة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3928
+RewriteRule ^.*$ /تحكيم-المقابلة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3925
+RewriteRule ^.*$ /تحكيم-المقابلة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3924
+RewriteRule ^.*$ /تحكيم-المقابلة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3921
+RewriteRule ^.*$ /تحكيم-المقابلة-الهندسة-الصوتية-والإن/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3919
+RewriteRule ^.*$ /تحكيم-المقابلة-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3916
+RewriteRule ^.*$ /تحكيم-المقابلة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3915
+RewriteRule ^.*$ /تحكيم-المقابلة-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3913
+RewriteRule ^.*$ /تحكيم-المقابلة-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3911
+RewriteRule ^.*$ /تحكيم-المقابلة-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3909
+RewriteRule ^.*$ /تحكيم-المقابلة-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3907
+RewriteRule ^.*$ /تحكيم-المقابلة-التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3904
+RewriteRule ^.*$ /تحكيم-المقابلة-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3901
+RewriteRule ^.*$ /تحكيم-المقابلة-إخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3740
+RewriteRule ^.*$ /تحكيم-فني-إخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3738
+RewriteRule ^.*$ /تحكيم-فني-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3736
+RewriteRule ^.*$ /تحكيم-فني-التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3734
+RewriteRule ^.*$ /تحكيم-فني-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3732
+RewriteRule ^.*$ /تحكيم-فني-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3730
+RewriteRule ^.*$ /تحكيم-فني-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3728
+RewriteRule ^.*$ /تحكيم-فني-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3726
+RewriteRule ^.*$ /تحكيم-فني-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3724
+RewriteRule ^.*$ /تحكيم-فني-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3722
+RewriteRule ^.*$ /تحكيم-فني-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3720
+RewriteRule ^.*$ /تحكيم-فني-الهندسة-الصوتية-والإنتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3718
+RewriteRule ^.*$ /تحكيم-فني-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3716
+RewriteRule ^.*$ /تحكيم-فني-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3713
+RewriteRule ^.*$ /تحكيم-فني-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3710
+RewriteRule ^.*$ /تحكيم-فني-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3678
+RewriteRule ^.*$ /تحكيم-إداري-عزف-جيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3588
+RewriteRule ^.*$ /تحكيم-إداري-إخراج-2/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3586
+RewriteRule ^.*$ /تحكيم-إداري-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3584
+RewriteRule ^.*$ /تحكيم-إداري-التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3582
+RewriteRule ^.*$ /تحكيم-إداري-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3580
+RewriteRule ^.*$ /تحكيم-إداري-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3578
+RewriteRule ^.*$ /تحكيم-إداري-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3576
+RewriteRule ^.*$ /تحكيم-إداري-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3573
+RewriteRule ^.*$ /تحكيم-إداري-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3572
+RewriteRule ^.*$ /تحكيم-إداري-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3570
+RewriteRule ^.*$ /تحكيم-إداري-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3568
+RewriteRule ^.*$ /تحكيم-إداري-الهندسة-الصوتية-والإنتا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3566
+RewriteRule ^.*$ /تحكيم-إداري-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3564
+RewriteRule ^.*$ /تحكيم-إداري-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3562
+RewriteRule ^.*$ /تحكيم-إداري-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3529
+RewriteRule ^.*$ /نتائج-تسجيل-حلم-النور/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3526
+RewriteRule ^.*$ /تحكيم-إداري-إخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3264
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/testing-page/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=3094
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2882
+RewriteRule ^.*$ /تم-تسجيل-الدخول-بنجاح/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2845
+RewriteRule ^.*$ /أسئلة-بناء-الشخصية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2843
+RewriteRule ^.*$ /البيانات-الشخصية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2832
+RewriteRule ^.*$ /مرحبا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2818
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2815
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2813
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2811
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2809
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2806
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2805
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/الهندسة-الصوتية-والإنتاج-الموسيقي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2802
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2801
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2798
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2797
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2795
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2793
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2786
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/سؤال-وجواب/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2784
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2781
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2584
+RewriteRule ^.*$ /طلب-تدريبات/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=2442
+RewriteRule ^.*$ /تصميمات-2/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=1874
+RewriteRule ^.*$ /فيديوهاتنا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=1818
+RewriteRule ^.*$ /مبادئ-عضوية-حلم-النور/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=1816
+RewriteRule ^.*$ /ايه-حلم-النور-؟/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=577
+RewriteRule ^.*$ /? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=378
+RewriteRule ^.*$ /اتصل-بنا/? [L,R=301]
+
+
+RewriteCond %{QUERY_STRING} page_id=4099
+RewriteRule ^.*$ /فتح-باب-التطوع-بأسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4076
+RewriteRule ^.*$ /يوم-العمل-المجتمعى-فى-المنيا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2748
+RewriteRule ^.*$ /حكاية-حيطة-النور/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2713
+RewriteRule ^.*$ /يوم-العمل-المجتمعي-الأول-بأسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4094
+RewriteRule ^.*$ /يوم-التدريب-في-أسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2707
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بالاسكندر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4097
+RewriteRule ^.*$ /يوم-التدريب-في-المنيا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2688
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بالمنيا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2687
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بأسيوط/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4103
+RewriteRule ^.*$ /فتح-باب-التطوع-بالإسكندرية-اللقاء-الأ/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2681
+RewriteRule ^.*$ /حفل-افتتاح-مبادرة-حلم-النور-بالقاهرة/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4101
+RewriteRule ^.*$ /فتح-باب-التطوع-بالمنيا-اللقاء-الأول-مع/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2404
+RewriteRule ^.*$ /ملتقى-الفنانين/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=1803
+RewriteRule ^.*$ /حلم-النور-فى-المحافظات/? [L,R=301]
+
+
+RewriteCond %{QUERY_STRING} page_id=8923
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الغناء-الشرقي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8919
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الناي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8915
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-القانون/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8911
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الرق/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8907
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8903
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8899
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8873
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8868
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-الهندسة-الصوتية-والإنتاج-الموسي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8863
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8856
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8849
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8815
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8841
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-الفنون-التشكيلية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8182
+RewriteRule ^.*$ /تبرع-لنا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8036
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-الفنون-التشكيلية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8033
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/الهندسة-الصوتية-والإنتاج-الموسيقي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8030
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8027
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8022
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8019
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8014
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8012
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8010
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8005
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=8001
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثالث-٢٠٢٢/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=7794
+RewriteRule ^.*$ /تطوع-معنا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=7766
+RewriteRule ^.*$ /برنامجنا-الفني/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=7700
+RewriteRule ^.*$ /من-نحن/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4459
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4454
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4435
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4432
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4430
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4427
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4425
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-الهندسة-الصوتية-والإنتاج-الموسي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4420
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4418
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4413
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4356
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/ورشة-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4316
+RewriteRule ^.*$ /تصميمات-3/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4310
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4182
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/استمارة-الموجة-التانية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=4184
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الثاني-٢٠١٨/البيانات-الشخصية-الموجة-التانية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3959
+RewriteRule ^.*$ /اخبار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3950
+RewriteRule ^.*$ /إستمارة-ورش-التدريب/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3947
+RewriteRule ^.*$ /برنامج-حلم-النور-التدريبي-ورش-التدريب/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3905
+RewriteRule ^.*$ /تحكيم-المقابلة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3929
+RewriteRule ^.*$ /تحكيم-المقابلة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3928
+RewriteRule ^.*$ /تحكيم-المقابلة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3925
+RewriteRule ^.*$ /تحكيم-المقابلة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3924
+RewriteRule ^.*$ /تحكيم-المقابلة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3921
+RewriteRule ^.*$ /تحكيم-المقابلة-الهندسة-الصوتية-والإن/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3919
+RewriteRule ^.*$ /تحكيم-المقابلة-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3916
+RewriteRule ^.*$ /تحكيم-المقابلة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3915
+RewriteRule ^.*$ /تحكيم-المقابلة-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3913
+RewriteRule ^.*$ /تحكيم-المقابلة-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3911
+RewriteRule ^.*$ /تحكيم-المقابلة-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3909
+RewriteRule ^.*$ /تحكيم-المقابلة-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3907
+RewriteRule ^.*$ /تحكيم-المقابلة-التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3904
+RewriteRule ^.*$ /تحكيم-المقابلة-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3901
+RewriteRule ^.*$ /تحكيم-المقابلة-إخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3740
+RewriteRule ^.*$ /تحكيم-فني-إخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3738
+RewriteRule ^.*$ /تحكيم-فني-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3736
+RewriteRule ^.*$ /تحكيم-فني-التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3734
+RewriteRule ^.*$ /تحكيم-فني-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3732
+RewriteRule ^.*$ /تحكيم-فني-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3730
+RewriteRule ^.*$ /تحكيم-فني-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3728
+RewriteRule ^.*$ /تحكيم-فني-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3726
+RewriteRule ^.*$ /تحكيم-فني-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3724
+RewriteRule ^.*$ /تحكيم-فني-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3722
+RewriteRule ^.*$ /تحكيم-فني-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3720
+RewriteRule ^.*$ /تحكيم-فني-الهندسة-الصوتية-والإنتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3718
+RewriteRule ^.*$ /تحكيم-فني-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3716
+RewriteRule ^.*$ /تحكيم-فني-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3713
+RewriteRule ^.*$ /تحكيم-فني-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3710
+RewriteRule ^.*$ /تحكيم-فني-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3678
+RewriteRule ^.*$ /تحكيم-إداري-عزف-جيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3588
+RewriteRule ^.*$ /تحكيم-إداري-إخراج-2/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3586
+RewriteRule ^.*$ /تحكيم-إداري-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3584
+RewriteRule ^.*$ /تحكيم-إداري-التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3582
+RewriteRule ^.*$ /تحكيم-إداري-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3580
+RewriteRule ^.*$ /تحكيم-إداري-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3578
+RewriteRule ^.*$ /تحكيم-إداري-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3576
+RewriteRule ^.*$ /تحكيم-إداري-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3573
+RewriteRule ^.*$ /تحكيم-إداري-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3572
+RewriteRule ^.*$ /تحكيم-إداري-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3570
+RewriteRule ^.*$ /تحكيم-إداري-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3568
+RewriteRule ^.*$ /تحكيم-إداري-الهندسة-الصوتية-والإنتا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3566
+RewriteRule ^.*$ /تحكيم-إداري-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3564
+RewriteRule ^.*$ /تحكيم-إداري-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3562
+RewriteRule ^.*$ /تحكيم-إداري-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3529
+RewriteRule ^.*$ /نتائج-تسجيل-حلم-النور/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3526
+RewriteRule ^.*$ /تحكيم-إداري-إخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3264
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/testing-page/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=3094
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2882
+RewriteRule ^.*$ /تم-تسجيل-الدخول-بنجاح/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2845
+RewriteRule ^.*$ /أسئلة-بناء-الشخصية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2843
+RewriteRule ^.*$ /البيانات-الشخصية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2832
+RewriteRule ^.*$ /مرحبا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2818
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-إعداد-وتقديم-البرامج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2815
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2813
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2811
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2809
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2806
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الرقص-المعاصر/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2805
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/الهندسة-الصوتية-والإنتاج-الموسيقي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2802
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-التمثيل/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2801
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2798
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/التصوير/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2797
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الرسم/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2795
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-النحت/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2793
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/ورشة-الكتابة-الأدبية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2786
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/سؤال-وجواب/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2784
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2781
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الاول-٢٠١٥/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2584
+RewriteRule ^.*$ /طلب-تدريبات/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=2442
+RewriteRule ^.*$ /تصميمات-2/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=1874
+RewriteRule ^.*$ /فيديوهاتنا/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=1818
+RewriteRule ^.*$ /مبادئ-عضوية-حلم-النور/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=1816
+RewriteRule ^.*$ /ايه-حلم-النور-؟/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=577
+RewriteRule ^.*$ /? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=378
+RewriteRule ^.*$ /اتصل-بنا/? [L,R=301]
+
+
