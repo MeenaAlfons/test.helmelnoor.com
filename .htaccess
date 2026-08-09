@@ -42,6 +42,42 @@ RewriteCond %{QUERY_STRING} p=1803
 RewriteRule ^.*$ /حلم-النور-فى-المحافظات/? [L,R=301]
 
 
+RewriteCond %{QUERY_STRING} p=9230
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9223
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-باص-جيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9219
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9215
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9211
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9207
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9202
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الهندسة-الصوتية-والإنتاج-الموسي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9198
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9194
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9190
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9186
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الفنون-التشكيلية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} p=9182
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/? [L,R=301]
+
 RewriteCond %{QUERY_STRING} p=8923
 RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الغناء-الشرقي/? [L,R=301]
 
@@ -265,6 +301,42 @@ RewriteRule ^.*$ /ملتقى-الفنانين/? [L,R=301]
 RewriteCond %{QUERY_STRING} page_id=1803
 RewriteRule ^.*$ /حلم-النور-فى-المحافظات/? [L,R=301]
 
+
+RewriteCond %{QUERY_STRING} page_id=9230
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الإخراج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9223
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-باص-جيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9219
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-الدرامز/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9215
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-البيانو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9211
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-عزف-الجيتار/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9207
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الغناء/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9202
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الهندسة-الصوتية-والإنتاج-الموسي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9198
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-التصوير-السينمائي/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9194
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-المونتاج/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9190
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-كتابة-السيناريو/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9186
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/ورشة-الفنون-التشكيلية/? [L,R=301]
+
+RewriteCond %{QUERY_STRING} page_id=9182
+RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الخامس-٢٠٢٦/? [L,R=301]
 
 RewriteCond %{QUERY_STRING} page_id=8923
 RewriteRule ^.*$ /برنامجنا-الفني/برنامج-التدريب-الفني-الرابع-٢٠٢٤/ورشة-عزف-الغناء-الشرقي/? [L,R=301]
